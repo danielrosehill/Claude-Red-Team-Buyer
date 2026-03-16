@@ -1,3 +1,5 @@
+[![Part of the Claude Agent Blueprints Index](https://img.shields.io/badge/Claude%20Agent%20Blueprints-Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # Claude Red Team Buyer
 
 A Claude Code agent template that evaluates websites from the perspective of a potential buyer/customer. It performs "red team" analysis — identifying friction points, trust issues, UX problems, and conversion blockers that might cause a real buyer to leave.
@@ -62,3 +64,7 @@ Each report includes:
 - [Claude Code](https://claude.com/claude-code) CLI
 - [Typst](https://typst.app/) for PDF generation
 - (Optional) [Playwright](https://playwright.dev/) for browser-based evaluation
+
+---
+
+For more Claude Code projects, visit [my index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
